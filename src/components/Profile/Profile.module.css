@@ -57,6 +57,10 @@
   margin-right: 22px;
 }
 
+.stats li:last-child {
+  margin-right: 0;
+}
+
 .label {
   font-size: 1rem;
   color: #666;
